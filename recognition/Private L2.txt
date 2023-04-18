@@ -1,0 +1,12 @@
+
+01 He is standing by the door
+
+02 You god damn right
+
+01=male 02=female
+01=Actor 1 , 02= Actor 2 ,03=Actor 3, 04=Actrees 1 ,05=Actrees 2 , 06=Actrees 3 ,
+07=Actor 4 , 08=Actor 5 , 09=Actor 6 , 10=Actrees 4 , 11=Actrees 5 , 12=Actrees 6 
+
+01 = calm, 02 = sad, 03 = angry, 04 = fearful, 05 = happy
+	
+
